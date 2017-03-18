@@ -2,10 +2,10 @@
 
 *rTorrent Community Wiki and GH Pages Repository*
 
-:pencil: | The [wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) is editable by any GitHub user, and thus the often-expressed wish for a complete and current reference depends on *YOU*.
+:pen: | The [wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) is editable by any GitHub user, and thus the often-expressed wish for a complete and current reference depends on *YOU*.
 ---: | :---
 
-:books: | The [rTorrent Handbook](https://github.com/rtorrent-community/rtorrent-docs#rtorrent-docs) documentation project takes input from the wiki and puts it into a more formal, cross-referenced handbook. You are very welcome to contribute to the handbook too, it uses *Sphinx* to generate the final result at *Read the Docs*.
+:book: | The [rTorrent Handbook](https://github.com/rtorrent-community/rtorrent-docs#rtorrent-docs) documentation project takes input from the wiki and puts it into a more formal, cross-referenced handbook. You are very welcome to contribute to the handbook too, it uses *Sphinx* to generate the final result at *Read the Docs*.
 ---: | :---
 
 :copyright: | The content in this repository and associated wiki is licensed [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). By contributing, you grant this project and its members the right to publish your contribution under the terms of that license.
